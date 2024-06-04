@@ -1,0 +1,19 @@
+
+h1{
+    color: rgb(1, 1, 15);
+    background-color: rgb(228, 220, 235);
+    width: 650px;
+    margin: 20px;
+    padding: 20px;
+}
+
+p{
+    font-size: 25px;
+}
+
+ul li{
+    padding: 12px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
